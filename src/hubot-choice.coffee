@@ -2,7 +2,7 @@
 #   Choice one from items.
 #
 # Dependencies:
-#   underscore
+#   None
 #
 # Configuration:
 #   None
